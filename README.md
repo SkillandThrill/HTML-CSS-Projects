@@ -1,3 +1,5 @@
+creating Base level projects for the clear understanding of Front End and to understand core concepts of front to develope the skills.
+
 https://github.com/GauravR02/HTML-CSS-Projects.git
 
 …or create a new repository on the command line
