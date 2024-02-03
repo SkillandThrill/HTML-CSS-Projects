@@ -1,8 +1,6 @@
 bunch of HTML and CSS Projects to polish the base properties of languages.
 
 <<<<<<< HEAD
-1.Profile Card : project inlcludes image and bunch css properties,
-=======
 1.Profile Card : project inlcludes image and bunch css properties.
 
 > > > > > > > 238fd0f23d7c013a8b077f2701aaaeb8bfdde1a9
