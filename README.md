@@ -1,6 +1,6 @@
 bunch of HTML and CSS Projects to polish the base properties of languages.
 
-1.Profile Card : project inlcludes image and bunch css properties,
+1.Profile Card : project inlcludes image and bunch css properties.
 
 creating Base level projects for the clear understanding of Front End and to understand core concepts of front to develope the skills.
 
