@@ -132,3 +132,26 @@ form .button input {
 form .button input:hover {
     background: linear-gradient(-0.25turn, #3f87a6, #ebf8e1, #f69d3c);
 }
+
+
+/* Adding Media queries for responsiveness to the webpage */
+
+@media (max-width:584px) {
+    .container {
+        max-width: 100%;
+    }
+    form .user-details .input-box {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    form .gender-details .category {
+        width: 100%;
+    }
+    .container form .user-details {
+        max-height: 300px;
+        overflow-y: scroll;
+    }
+    .user-details::-webkit-scrollbar {
+        width: 0;
+    }
+}

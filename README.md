@@ -1,6 +1,5 @@
-bunch of HTML and CSS Projects to polish the base properties of languages.
+Creating bunch of HTML and CSS Projects to polish the skills and get clear understanding of base properties.
 
-<<<<<<< HEAD
 1.Profile Card : project inlcludes image and bunch css properties.
 
 creating Base level projects for the clear understanding of Front End and to understand core concepts of front to develope the skills.
@@ -9,6 +8,7 @@ creating Base level projects for the clear understanding of Front End and to und
 started creating the Login and registration form with bunch of style icons.
 
 3.creating a registration form with responsiveness to various devices
+created the Registration form with the details to add name, username, email, password and confirm password. gave the responsivness to the form as well.
 
 ////////////////
 https://github.com/GauravR02/HTML-CSS-Projects.git
