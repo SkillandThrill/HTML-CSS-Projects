@@ -7,6 +7,9 @@ bunch of HTML and CSS Projects to polish the base properties of languages.
 > > > > > > > creating Base level projects for the clear understanding of Front End and to understand core concepts of front to develope the skills.
 
 2.Creating a Login and sign up form using HTML CSS
+started creating the Login and registration form with bunch of style icons.
+
+3.creating a registration form with responsiveness to various devices
 
 https://github.com/GauravR02/HTML-CSS-Projects.git
 
