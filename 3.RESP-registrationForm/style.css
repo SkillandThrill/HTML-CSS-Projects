@@ -66,9 +66,69 @@ form .user-details .input-box {
     padding-left: 15px;
     font-size: 14px;
     border-bottom-width: 2px;
+    transition: all 0.3s ease;
 }
 
 .user-details .input-box input:focus,
 .user-details .input-box input:valid {
     border-color: #f69d3c;
+}
+
+form .gender-details .gender-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+form .gender-details .category {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 14px 0;
+}
+
+.gender-details .category label {
+    display: flex;
+    align-items: center;
+}
+
+.gender-details .category .dot {
+    height: 18px;
+    width: 18px;
+    background: #d9d9d9;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 5px solid transparent;
+    transition: all 0.3s ease;
+}
+
+#dot-1:checked~.category label .one,
+#dot-2:checked~.category label .two,
+#dot-3:checked~.category label .three {
+    border-color: #d9d9d9;
+    background: #f69d3c;
+}
+
+form input[type="radio"] {
+    display: none;
+}
+
+form .button {
+    height: 45px;
+    margin: 45px 0;
+}
+
+form .button input {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #333;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+form .button input:hover {
+    background: linear-gradient(-0.25turn, #3f87a6, #ebf8e1, #f69d3c);
 }
