@@ -10,6 +10,7 @@ started creating the Login and registration form with bunch of style icons.
 created the Registration form with the details to add name, username, email, password and confirm password. gave the responsivness to the form as well.
 
 4.creating Contact us form
+created contact us form with HTML and CSS gave the responsivness to the page with media queries. used flex properties for aligning the contents.
 
 ////////////////
 https://github.com/GauravR02/HTML-CSS-Projects.git
