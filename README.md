@@ -13,9 +13,12 @@ created the Registration form with the details to add name, username, email, pas
 created contact us form with HTML and CSS gave the responsivness to the page with media queries. used flex properties for aligning the contents.
 
 5.Loader Animation
-creating a loader animation with HTML and CSS
+creating a loader animation with transform properties of css
 
-////////////////
+6.Resp NavBar
+creating navbar from HTML, CSS and making it device responsive with media queries
+
+//////////////////////////////
 https://github.com/GauravR02/HTML-CSS-Projects.git
 
 …or create a new repository on the command line
