@@ -18,6 +18,7 @@ creating a loader animation with transform properties of css
 6.Resp NavBar
 creating navbar from HTML, CSS and making it device responsive with media queries
 
+7.NeoMorphism Side bar menu
 //////////////////////////////
 https://github.com/GauravR02/HTML-CSS-Projects.git
 
